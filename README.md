@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 , Gourav Desetty</h1>
+<h1 align="center">Hey there 👋 ,I'm Gourav Desetty</h1>
 
 ###
 
